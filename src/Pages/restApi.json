@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "/quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Our dishes are crafted with the freshest, locally sourced ingredients to ensure exceptional flavor and nutritional value." 
+            },
+            {
+                "id": 2,
+                "image": "/super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Experience a symphony of flavors in every bite, expertly seasoned and cooked to perfection for an unforgettable culinary journey." 
+            },
+            {
+                "id": 3,
+                "image": "/fast_delivery.svg",
+                "title": "FAST SERVICE",
+                "description": "Get your cravings satisfied quickly with our efficient service, bringing your favorite meals to you while they're still hot and delicious." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "/dish1.jpg",
+                "title": "PANEER PRATHAA",
+                "category": "Rs.50"
+            },
+            {
+                "id": 2,
+                "image": "/dish2.jpg",
+                "title": "ALOO PRATHAA",
+                "category": "Rs.50"
+            },
+            {
+                "id": 3,
+                "image": "/dish3.jpg",
+                "title": "CHILI POTATO",
+                "category": "Rs.70"
+            },
+            {
+                "id": 4,
+                "image": "/dish4.jpg",
+                "title": "CHOLE BATHURE",
+                "category": "Rs.70"
+            },
+            {
+                "id": 5,
+                "image": "/dish5.jpg",
+                "title": "RAJMA CHAWAL",
+                "category": "Rs.70"
+            },
+            {
+                "id": 6,
+                "image": "/dish6.jpg",
+                "title": "SANDWICH",
+                "category": "Rs.50"
+            },
+            {
+                "id": 7,
+                "image": "/dish7.jpg",
+                "title": "BURGER",
+                "category": "Rs.50"
+            },
+            {
+                "id": 8,
+                "image": "/dish8.jpg",
+                "title": "CHOWMEIN",
+                "category": "Rs.50"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "/team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "/team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "/team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "/team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "/review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "/review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "/review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
