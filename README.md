@@ -1,1 +1,2 @@
 # ABES-CAFETERIA
+Revolutionizing the ABES College canteen experience! This website, developed with HTML, CSS, and JavaScript, offers a convenient online platform for students to easily browse menus and place orders. By streamlining the ordering process and managing all data with MongoDB, we're solving the common campus problem of long queues and making canteen meals more accessible and enjoyable for every ABES student.
