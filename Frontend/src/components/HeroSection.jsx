@@ -26,7 +26,7 @@ const Navbar = () => {
       <div>
         <Link to="/" style={{ color: '#fff', margin: '0 15px' , textDecoration: 'none', fontWeight: '500' }}>Home</Link>
         <Link to="/menu" style={{ color: '#fff', margin: '0 15px', textDecoration: 'none', fontWeight: '500' }}>Menu</Link>
-        <Link to="/about" style={{ color: '#fff', margin: '0 15px', textDecoration: 'none', fontWeight: '500' }}>About</Link>
+        <Link to="https://abes.edu.in/life@abes.html" style={{ color: '#fff', margin: '0 15px', textDecoration: 'none', fontWeight: '500' }}>About</Link>
         <Link to="/login" style={{ color: '#fff', margin: '0 15px', textDecoration: 'none', fontWeight: '500' }}>Login</Link>
       </div>
     </nav>

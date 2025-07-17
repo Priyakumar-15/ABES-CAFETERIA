@@ -6,6 +6,8 @@ import NotFound from './Pages/NotFound';
 import Success from './Pages/Success';
 import Login from './Pages/Login'
 import SignUp from './Pages/SignUP'
+import MenuPage from './Pages/MenuPage'
+
 const App = () => {
   return (
   
@@ -13,9 +15,12 @@ const App = () => {
     <Routes>
       <Route path ="/" element={<Home/>}/>
       <Route path ="/success" element={<Success/>}/>
-      <Route path ="/Login" element={<Login/>}/>
+      <Route path ="/login" element={<Login/>}/>
       <Route path ="/signup" element={<SignUp/>}/>
-      <Route path ="*" element={<NotFound/>}/>
+      
+       <Route path="/menu" element={<MenuPage/>} />
+       <Route path ='*' element={<NotFound/>}/>
+    
     </Routes>
     <Toaster />
   </Router>

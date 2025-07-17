@@ -14,7 +14,7 @@ const About = () => {
 
                     </div>
                     <p className="mid">  We offer a diverse menu designed to fit your busy schedule and diverse tastes.  Whether you're grabbing a quick coffee and pastry on the way to class, settling in for a satisfying lunch with friends, or fueling a late-night study session with your go-to comfort food, you'll find exactly what you need, right here on campus.  We're committed to providing variety, convenience, and quality, so you can focus on what matters most.</p>
-                    <Link to ={"/"}>Explore Menu{" "}
+                    <Link to ={"/menu"}>Explore Menu{" "}
                     <span> <HiOutlineArrowNarrowRight/> </span></Link>
 
                         </div> 

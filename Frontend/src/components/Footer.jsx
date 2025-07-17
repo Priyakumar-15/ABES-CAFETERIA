@@ -58,9 +58,9 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>© Copyright 2020 - 2021. All Rights Reserved</p>
+        <p>© Copyright 2024 - 2025. All Rights Reserved</p>
         <p>
-          Designed & Developed with <i className="fas fa-heart"></i> By PRIYA KUMAR
+          Designed & Developed with ❤️ By PRIYA KUMAR and RAUNAK TOMAR
         </p>
       </div>
     </footer>
